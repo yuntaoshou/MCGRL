@@ -9,6 +9,11 @@ By Yuntao Shou, Xiangyong Cao, Huan Liu, Deyu Meng. [[arXiv link]](https://arxiv
 
 This is an official implementation of 'Masked contrastive graph representation learning for age estimation' :fire:. Any problems, please contact shouyuntao@stu.xjtu.edu.cn. Any other interesting papers or codes are welcome. If you find this repository useful to your research or work, it is really appreciated to star this repository :heart:.
 
+<div  align="center"> 
+  <img src="https://github.com/yuntaoshou/MCGRL/blob/main/1.png" width=100% />
+</div>
+
+
 [![GitHub stars][stars-img]][stars-url]
 [![GitHub forks][fork-img]][fork-url]
 
