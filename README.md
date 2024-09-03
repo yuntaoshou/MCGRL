@@ -28,4 +28,4 @@ author = {Yuntao Shou and Xiangyong Cao and Huan Liu and Deyu Meng},
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yuntaoshou/MCGRL)](https://star-history.com/#yuntaoshou/MCGRL&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=yuntaoshou/MCGRL&type=Date)](https://star-history.com/#yuntaoshou/MCGRL&Date)
